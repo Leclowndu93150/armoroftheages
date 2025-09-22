@@ -38,11 +38,11 @@ dependencies {
     modImplementation "net.fabricmc:fabric-loader:${fabric_loader_version}"
     modImplementation "net.fabricmc.fabric-api:fabric-api:${fabric_version}"
     modImplementation include("dev.isxander:yet-another-config-lib:${project.yacl_version}-fabric")
-    modImplementation "maven.modrinth:modmenu:YIfqIJ8q"
-    modImplementation "curse.maven:jei-238222:7014280"
+    modImplementation "curse.maven:modmenu-308702:6946098"
+    //modImplementation "curse.maven:jei-238222:7014280"
 
-    modImplementation "maven.modrinth:cosmetic-armor-revitalized-fabric:1.7.0"
-    modImplementation "dev.emi:trinkets:3.10.0"
+    //modImplementation "maven.modrinth:cosmetic-armor-revitalized-fabric:1.7.0"
+    //modImplementation "dev.emi:trinkets:3.10.0"
 }
 
 loom {
